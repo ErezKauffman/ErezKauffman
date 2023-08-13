@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErezKauffman
 - 👀 I’m interested in ... data_science
-- 🌱 I’m currently learning ... python_and_r
+- 🌱 I’m currently learning ... Machine kearning using Python
 - 💞️ I’m looking to collaborate on ... data
 - 📫 How to reach me ... drop_a_message
 
