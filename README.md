@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @goldengold2016
+- 👋 Hi, I’m @ErezKauffman
 - 👀 I’m interested in ... data_science
 - 🌱 I’m currently learning ... python_and_r
 - 💞️ I’m looking to collaborate on ... data
